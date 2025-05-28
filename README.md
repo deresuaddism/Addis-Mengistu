@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Addis Mengistu
 
 🎯 **Finance & Administration Professional**  
-📍 Addis Ababa, Ethiopia | 13+ Years of Experience  
-📊 Strategic Planning • Risk Management • Financial Analysis • Auditing
+📍 Addis Ababa, Ethiopia | 14+ Years of Experience  
+📊 Strategic Planning • Risk Management • Financial Analysis • Auditing • Budget Management
 
 ---
 
@@ -13,26 +13,25 @@
 ✅ Risk & Compliance  
 ✅ Operational Leadership  
 ✅ Analysis & Reporting  
-✅ Banking & International INGOs
+✅ Strategic Partnership
 
 ---
 
 ## 🌍 Funding Partners Experience
 
-- 🇺🇸 USAID  
-- 🇸🇪 SIDA  
-- 🌍 IFAD  
-- 🇪🇺 European Union  
-- 💡 Bill & Melinda Gates Foundation (BMGF)
-
+- USAID  
+- SIDA  
+- IFAD  
+- European Union  
+- Bill & Melinda Gates Foundation (BMGF)
 ---
 
-## 🏢 Organizations I’ve Worked With
+## 🏢 Organisations I’ve Worked For
 
-- [Dashen Bank Sc](https://dashenbanksc.com/)  
-- [Abt Associates Inc (Abt Global)](https://www.abtglobal.com/)  
-- [Results for Development (R4D)](https://r4d.org/)  
-- [Heifer International](https://www.heifer.org/index.html)
+[![Dashen Bank](https://img.shields.io/badge/Dashen_Bank-003366?style=flat&logo=apache&logoColor=white)](https://dashenbanksc.com/)  
+[![Abt Global](https://img.shields.io/badge/Abt_Associates-00843D?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3...)](https://www.abtglobal.com/)  
+[![R4D](https://img.shields.io/badge/Results_for_Development-R4D-0077B5?style=flat&logo=researchgate&logoColor=white)](https://r4d.org/)  
+[![Heifer International](https://img.shields.io/badge/Heifer_International-228B22?style=flat&logo=spring&logoColor=white)](https://www.heifer.org/index.html)
 
 ---
 
